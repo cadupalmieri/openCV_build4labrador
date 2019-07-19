@@ -18,6 +18,8 @@ echo '=============================================='
 echo 'Atualizando Sistema Operacional'
 echo '=============================================='
 
+sudo apt-get remove --purge libreoffice*
+
 sudo apt-get -y update
 sudo apt-get -y upgrade       
 sudo apt-get -y dist-upgrade  
@@ -51,7 +53,6 @@ sudo apt-get install -y doxygen
 sudo apt-get install -y python-setuptools python-pip python-sklearn
 
 sudo pip install imutils
-
 
 echo '=============================================='
 echo 'Baixando pacotes OpenCV e os modulos adicionais'
