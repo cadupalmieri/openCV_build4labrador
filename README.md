@@ -5,7 +5,7 @@ Este inscript instala as dependências necessárias para compilação e uso do o
 
 No inicio do script você pode mudar a versão de instalação do OpenCV que está como padrão a versão 3.4.6
 
-Instruções
+Instruções:
 
 1- Baixe o script
 2- Ttorne-o executavel com sudo chmod +x <nomearquivo.sh>
