@@ -7,8 +7,8 @@ No inicio do script você pode mudar a versão de instalação do OpenCV que est
 
 Instruções:
 
-1- Baixe o script
-2- Ttorne-o executavel com sudo chmod +x <nomearquivo.sh>
-3 - Execute-o com sudo ./nomearquivo.sh
+1 - Baixe o script.<br />
+2 - Torne-o executavel com sudo chmod +x <nomearquivo.sh>.<br />
+3 - Execute-o com sudo ./nomearquivo.sh.<br />
 
 CD
