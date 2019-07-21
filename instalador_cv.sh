@@ -18,7 +18,7 @@ echo '=============================================='
 echo 'Atualizando Sistema Operacional'
 echo '=============================================='
 
-sudo apt-get remove --purge libreoffice*
+sudo apt-get -y remove --purge libreoffice*
 
 sudo apt-get -y update
 sudo apt-get -y upgrade       
