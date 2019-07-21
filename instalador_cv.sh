@@ -105,5 +105,16 @@ sudo make install
 sudo ldconfig
 
 echo '=============================================='
+echo 'Limpando arquivos desnecessários'
+echo '=============================================='
+
+sudo rm -rf opencv
+sudo rm -rf opencv_contrib
+
+sudo apt-get -y clean
+sudo apt-get -y autoclean
+sudo apt-get -y autoremove
+
+echo '=============================================='
 echo 'ACABOU'
 echo '=============================================='
