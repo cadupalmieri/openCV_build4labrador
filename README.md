@@ -11,7 +11,7 @@ Instruções:
 2 - Torne-o executável com sudo chmod +x <nomearquivo.sh> <br />
 3 - Execute-o com sudo ./nomearquivo.sh <br />
 
-Tempo estimado para execução deste script (instalação de dependências + compilação) =
+Tempo estimado para execução deste script (instalação de dependências + compilação) = 3h44m
 
 
 CD
